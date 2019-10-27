@@ -1,3 +1,6 @@
+-- DATA BASE I - 16/10/2019,
+-- Ricardo Costa (José Costa 1010393)
+
 select * from cat;
 
 purge recyclebin;
