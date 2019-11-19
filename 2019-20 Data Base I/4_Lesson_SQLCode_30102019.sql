@@ -1,3 +1,7 @@
+-- DATA BASE I - 30/10/2019,
+-- Ricardo Costa (José Costa 1010393)
+
+
 /*SQL Intermediare Exercises*/
 
 -- 1.1
