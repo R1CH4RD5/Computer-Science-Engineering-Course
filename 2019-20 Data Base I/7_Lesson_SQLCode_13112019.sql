@@ -1,4 +1,7 @@
-/*13/11/2019*/
+-- DATA BASE I - 13/11/2019,
+-- Ricardo Costa (José Costa 1010393)
+
+-- -----------------------------------------------------------------------------
 
 -- SubQuery
 /*2nd Query inside of a 1st one. (SELECT, INSERT, UPDATE or DELETE.)*/
