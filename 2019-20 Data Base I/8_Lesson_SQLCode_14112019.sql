@@ -1,4 +1,7 @@
-/*14/11/2019*/
+-- DATA BASE I - 14/11/2019,
+-- Ricardo Costa (José Costa 1010393)
+
+-- -----------------------------------------------------------------------------
 
 -- VIEWS
 /*'It's something like a prebuilted select...'*/
@@ -7,7 +10,7 @@ select * from dept;
 
 /*Insert a record into the DEPT table.*/
 insert into dept (deptno,dname)
-values(50,'Inform�tica');
+values(50,'Informática');
 
 select deptno,dname
 from dept
@@ -103,4 +106,5 @@ from emp,dept
 where mgr = (
   select empno
   from emp
-  where ename = 'BLAKE');
+  where ename = 'BLAKE'
+);
