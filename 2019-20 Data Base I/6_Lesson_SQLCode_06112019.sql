@@ -1,5 +1,5 @@
-/*06/10/2019*/
-
+-- DATA BASE I - 06/11/2019,
+-- Ricardo Costa (José Costa 1010393)
 
 -- -----------------------------------------------------------------------------
 /*Question: How manny students we have? How manny sales did I have since the 
