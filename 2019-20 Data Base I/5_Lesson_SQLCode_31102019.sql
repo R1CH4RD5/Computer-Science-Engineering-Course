@@ -1,3 +1,6 @@
+-- DATA BASE I - 31/10/2019,
+-- Ricardo Costa (José Costa 1010393)
+
 /*Function 
 A function is a database object in SQL Server. Basically, it is a set of SQL 
 statements that accept only input parameters, perform actions and return the 
