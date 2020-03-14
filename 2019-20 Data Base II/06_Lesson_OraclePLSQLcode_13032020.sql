@@ -1,5 +1,5 @@
--- 13/03/2020
-
+-- Base de Dados II  13/03/2020
+-- Ricardo Costa (José Costa 1010393)
 
 -- FETCH
 SELECT ENAME, DEPTNO
